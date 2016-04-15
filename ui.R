@@ -1,5 +1,5 @@
 
-shinyUI(fluidPage(theme = "shiny.css",
+shinyUI(fluidPage(theme = "myshiny.css",
 
   headerPanel("Sliderfghd Test"),
   
