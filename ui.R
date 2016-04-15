@@ -1,7 +1,7 @@
 
 shinyUI(fluidPage(theme = "myshiny.css",
 
-  headerPanel("Sliderfghd Test"),
+  headerPanel("Power"),
   
   sidebarLayout(
     sidebarPanel(
