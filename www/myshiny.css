@@ -1,8 +1,23 @@
-    @import url('//fonts.googleapis.com/css?family=Lobster|Cabin:400,700');
+/********************************/
+/*   color references           */
+/*                              */
+/*$main_green:      #c8e04b;    */
+/*$main_green_lt:   #a0b33c;    */
+/*$main_green_dk:   #8c9c34;    */
+/*$main_blue:       #7b95a7;    */
+/*$grey5:           #404040;    */
+/*$grey5:           #ECECEC;    */
+/********************************/
+
+@import url(font-awesome.min.css);
+@import "http://fonts.googleapis.com/css?family=Raleway:400,700";
       
-      h1 {
-        font-family: 'Lobster', cursive;
-        font-weight: 500;
-        line-height: 1.1;
-        color: #48ca3b;
-      }
+h1 {
+  font-family:'Raleway';
+  color: #404040;
+  border-bottom: thin solid #c8e04b;
+  }
+  
+well {
+  background:#ECECEC;
+}
