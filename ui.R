@@ -1,6 +1,7 @@
 
-shinyUI(fluidPage(
-  titlePanel("Slider Test"),
+shinyUI(fluidPage(theme = "main.css",
+
+  headerPanel("Sliderfghd Test"),
   
   sidebarLayout(
     sidebarPanel(
